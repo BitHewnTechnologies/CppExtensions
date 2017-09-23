@@ -1,2 +1,5 @@
 # CppExtensions
-C++ extensions to std library
+
+A header library containing extensions to the c++ standard library
+
+Mostly based around traits
